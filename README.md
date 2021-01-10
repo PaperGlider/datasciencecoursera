@@ -1,2 +1,2 @@
 # datasciencecoursera
-For purpose of assignment
+For an assignment
